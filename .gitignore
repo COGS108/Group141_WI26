@@ -191,4 +191,5 @@ data/*.SQ*
 data/00-raw/Education.xlsx
 !data/00-raw/2024_US_County_Level_Presidential_Results.csv
 !data/00-raw/HDPulse_data_export.csv
+!data/00-raw/03-voter-participation-stats-by-county.csv
 
