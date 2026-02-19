@@ -187,8 +187,8 @@ data/*/*.MP*
 data/*.sq*
 data/*/*.sq*
 data/*.SQ*
-data/*/*.SQ*
 # ignore local raw data
-2024_US_County_Level_Presidential_Results.csv
-HDPulse_data_export.csv
 data/00-raw/Education.xlsx
+!data/00-raw/2024_US_County_Level_Presidential_Results.csv
+!data/00-raw/HDPulse_data_export.csv
+
